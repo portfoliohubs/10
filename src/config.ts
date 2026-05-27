@@ -18,8 +18,8 @@ const CONFIG = {
     name: "PortfolioHubs",
     slogan: "الاسنانجى لازم يتدلع",
     sloganEn: "The Dentist Deserves to Shine",
-    logoUrl: "", // leave empty to use the built-in text logo, or put a URL like "https://example.com/logo.png"
-    favicon: "/favicon.svg",
+    logoUrl: "https://github.com/user-attachments/assets/fef6c67d-5ed0-4459-b41d-4c288ab48163", // leave empty to use the built-in text logo, or put a URL like "https://example.com/logo.png"
+    favicon: "https://github.com/user-attachments/assets/fef6c67d-5ed0-4459-b41d-4c288ab48163",
   },
 
   // ─── WHATSAPP ────────────────────────────────────────────────────────────────
