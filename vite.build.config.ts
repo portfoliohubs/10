@@ -5,7 +5,7 @@ import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 import { writeFileSync, readFileSync } from "fs";
 
-const GH_BASE = "/MICKY/"; // <-- change to your repo name
+const GH_BASE = "/10/"; // <-- change to your repo name
 
 function githubPagesPlugin() {
   return {
