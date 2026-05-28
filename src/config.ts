@@ -17,9 +17,9 @@ const CONFIG = {
   // ─── SOCIAL LINKS ────────────────────────────────────────────────────────────
   // Leave empty ("") to hide an icon
   social: {
-    facebook:  "",   // e.g. "https://facebook.com/yourpage"
-    instagram: "",   // e.g. "https://instagram.com/yourhandle"
-    whatsapp:  "",   // e.g. "https://wa.me/201271476215"
+    facebook:  "https://www.facebook.com/profile.php?id=61573225642705",   // e.g. "https://facebook.com/yourpage"
+    instagram: "https://www.instagram.com/portfoliohubs?igsh=cnFkcWtra2swbDN3",   // e.g. "https://instagram.com/yourhandle"
+    whatsapp:  "https://wa.me/201271476215",   // e.g. "https://wa.me/201271476215"
   },
 
   // ─── WHATSAPP ────────────────────────────────────────────────────────────────
@@ -78,7 +78,7 @@ const CONFIG = {
     ],
     // ── USER COUNTER ─────────────────────────────────────────────────────────
     // Change this number manually. It is displayed as-is (no live tracking).
-    usersCount: "60",
+    usersCount: "59",
     usersCountLabel: "users now (updated daily)",
   },
 
