@@ -10,8 +10,8 @@ const CONFIG = {
     name: "PortfolioHubs",
     slogan: "الاسنانجى لازم يتدلع",
     sloganEn: "The Dentist Deserves to Shine",
-    logoUrl: "",
-    favicon: "/favicon.svg",
+    logoUrl: "https://github.com/user-attachments/assets/fef6c67d-5ed0-4459-b41d-4c288ab48163",
+    favicon: "https://github.com/user-attachments/assets/fef6c67d-5ed0-4459-b41d-4c288ab48163",
   },
 
   // ─── SOCIAL LINKS ────────────────────────────────────────────────────────────
