@@ -43,7 +43,7 @@ const CONFIG = {
 
   // ─── TOML BASE URL ────────────────────────────────────────────────────────────
   toml: {
-    baseUrl: "https://portfoliohubs.github.io/MICKY/",
+    baseUrl: "https://portfoliohubs.github.io/",
     languageCode: "en-us",
     defaultContentLanguage: "en",
   },
@@ -64,38 +64,39 @@ const CONFIG = {
 
   // ─── HOME PAGE TEXT ───────────────────────────────────────────────────────────
   home: {
-    headline: "Build Your Dental Profile",
-    subheadline: "Free professional tools for dentists and dental students",
+    headline: "Build Your professional Portfolio & CV",
+    subheadline: "الاسنانجى لاوم يتدلع",
     portfolioButtonTitle: "Portfolio Appear in Google Search",
-    portfolioButtonSubtitle: "Professional • Free • TOML Config",
-    cvButtonTitle: "CV PDF Maker",
-    cvButtonSubtitle: "Download instantly • Free • No registration",
+    portfolioButtonSubtitle: "Professional with jsut 499 LE • appearg in google search • appearg in AI tools answers as (Chatgpt)",
+    cvButtonTitle: "CV PDF Maker for free ",
+    cvButtonSubtitle: "Easy• Free • No account needed",
     features: [
+      "Professional",
       "No account required",
-      "100% free forever",
-      "Mobile friendly",
-      "Dark mode support",
+      "in just 5 minutes",
+      "Google & AI answers",
     ],
     // ── USER COUNTER ─────────────────────────────────────────────────────────
     // Change this number manually. It is displayed as-is (no live tracking).
-    usersCount: "60",
-    usersCountLabel: "users now (updated daily)",
+    usersCount: "59",
+    usersCountLabel: "users till now (updated daily)",
   },
 
   // ─── PORTFOLIO PATHWAY — INTRO STEP ──────────────────────────────────────────
   // This read-only step appears before "Personal Info" in the Portfolio pathway.
   // Users read it and click Next to proceed.
   portfolioIntro: {
-    stepLabel: "Welcome",
-    title: "For Who Is This Portfolio?",
+    stepLabel: "for who ?",
+    title: "For Who is this Portfolio website?",
     // Each string in this array is one paragraph/line in the intro
     content: [
-      "topic : for who this portfolio website ?",
+      "for who this ?",
       "for dentist need :",
       "1. appear in google search",
       "2. appear in Chatgpt, Gemini, all other AI tools answers",
       "3. need official website",
       "4. professional",
+      "5. creative permanent marketing ",
     ],
   },
 
@@ -111,17 +112,17 @@ const CONFIG = {
 
   // ─── FIELD PLACEHOLDERS ──────────────────────────────────────────────────────
   placeholders: {
-    fullNameEn:     "Dr. John Doe",
+    fullNameEn:     "Dr. Mohammed Ahmed",
     fullNameAr:     "د. محمد أحمد",
-    titleEn:        "Internship Dentist",
-    titleAr:        "طبيب أسنان متدرب",
+    titleEn:        "Internship Dentist, Orthodontist",
+    titleAr:        "طبيب أسنان متدرب, اخصائى تقويم",
     graduationYear: "2025",
     universityEn:   "Faculty of Dentistry, University Name",
     universityAr:   "كلية طب الأسنان، اسم الجامعة",
     phone:          "+20 123 456 7890",
     whatsapp:       "+20 123 456 7890",
     email:          "doctor@example.com",
-    website:        "https://portfoliohubs.github.io/yourname/",
+    website:        "Facebook or Instagram or LinkedIn,...etc",
     clinicalSkill:  "e.g. Oral Surgery",
     digitalSkill:   "e.g. Dental Photography",
     softSkill:      "e.g. Patient Communication",
@@ -129,7 +130,7 @@ const CONFIG = {
     milestoneEn:    "e.g. Graduated from Faculty of Dentistry",
     milestoneAr:    "مثال: تخرجت من كلية طب الأسنان",
     caseTitleEn:    "e.g. Class IV Composite Restoration",
-    caseTitleAr:    "مثال: حشوة كومبوزيت من الدرجة الرابعة",
+    caseTitleAr:    "مثال: حشوة كومبوزيت (غرض اللغه العربيه هنا هو ان يفهم المرضى)",
     caseSubtitle:   "e.g. Treatment with composite",
   },
 
@@ -195,7 +196,7 @@ const CONFIG = {
     sendWhatsApp:    "Send via WhatsApp",
     downloadPdf:     "Download CV as PDF",
     backHome:        "Back to Home",
-    resetForm:       "Start Over",
+    resetForm:       "Start New",
   },
 
   // ─── CV PDF SETTINGS ──────────────────────────────────────────────────────────
